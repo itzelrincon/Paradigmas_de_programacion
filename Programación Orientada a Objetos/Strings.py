@@ -1,0 +1,12 @@
+print ("Itzel" + "Rincón")
+print ("Itzel" *3)
+print ("Itzel" [0])
+print ("Itzel"[-1])
+print ("Itzel"[1:4])
+print(len ("Itzel"))
+print ("Itzel" < "Izel")
+print ("e" in "Itzel")
+print ("Itzel \n Rincón")
+print ('''Itzel
+		Rincon''')
+print('Itzel')
